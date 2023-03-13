@@ -1,8 +1,12 @@
-
-body
-{
-    margin: 20px;
+body{
+    color: #ffffff;
 }
-header{
-    background-color: azure;
+.container
+{
+    background-color: black;
+    margin: 50px;
+}
+.site-name
+{
+    color: #ffffff;
 }
